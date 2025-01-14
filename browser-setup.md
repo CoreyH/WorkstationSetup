@@ -2,17 +2,14 @@
 
 ## Edge Profiles
 Set up the following profiles in Microsoft Edge:
-1. **Work**: For work-related browsing.
-2. **Personal**: For personal use.
-3. **Testing**: For testing apps or sites.
-4. **Dev**: For development and staging environments.
-5. **Admin**: For admin dashboards and tools.
+1. **Personal**: For personal use.
+2. **KRING**: For primary KRING work.
+3. **Portfolio Company N**: N number of portfolio companies.
 
 ### Extensions
 Install the following extensions for all profiles:
-- [uBlock Origin](https://www.ublock.org/)
-- [Grammarly](https://www.grammarly.com/)
-- [LastPass](https://www.lastpass.com/)
+- [1password](https://www.1password.com/)
+- mymind
 
 ---
 
